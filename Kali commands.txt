@@ -1,0 +1,4 @@
+sudo nano /etc/apt/sources.list
+sudo apt install gvm
+sudo gvm-setup
+sudo gvm-check-setup
