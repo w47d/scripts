@@ -101,18 +101,7 @@ The scanner flags exposed services by severity:
 
 ---
 
-## > legal
 
 ```
-  ┌─────────────────────────────────────────────────────────────┐
-  │  Run this only against systems you are authorized to test.  │
-  │  Unauthorized scanning may violate computer-crime laws in   │
-  │  your jurisdiction. You own the consequences.               │
-  └─────────────────────────────────────────────────────────────┘
-```
-
----
-
-```
- [w47d] ──> defensive tooling // built for blue teams that think red
+ [w47d]
 ```
